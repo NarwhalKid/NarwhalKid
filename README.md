@@ -1,3 +1,3 @@
 Yo
 
-Pretty much the only reason im on github is for downloads or working on my website
+I make stuff in Javascript sometimes
